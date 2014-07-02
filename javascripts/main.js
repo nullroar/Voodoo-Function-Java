@@ -1,1 +1,1 @@
-console.log('This would be the main JS file.');
+console.log('Welcome to Voodoobit java. A bit empty in here, aint it?');
